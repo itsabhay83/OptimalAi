@@ -90,7 +90,9 @@ OptimalAI is an autonomous DeFi portfolio manager that helps you:
 
 ---
 
-## 👨‍💻 Contributing
+## 📂 Project Structure
 
-We welcome developers, DeFi experts, and AI enthusiasts!  
-Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for details on how to get involved.
+The repository is structured as follows:
+
+    OptimalAi/ ├── contracts/ # Smart contracts for DeFi interactions ├── web/ # Frontend application ├── .vscode/ # Editor configurations ├── README.md # Project overview ├── biome.json # Code formatting configuration ├── package.json # Project dependencies ├── pnpm-lock.yaml # pnpm lockfile
+
