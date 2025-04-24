@@ -79,7 +79,7 @@ OptimalAI is an autonomous DeFi portfolio manager that helps you:
 
 ---
 
-## 🛣️ 2024 Roadmap
+## 🛣️ 2025 Roadmap
 
 - Launch core vaults and basic strategies  
 - Integrate conversational AI agent  
